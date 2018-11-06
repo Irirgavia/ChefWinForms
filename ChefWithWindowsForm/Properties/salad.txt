@@ -1,0 +1,5 @@
+Vegetable Cucumber 180
+Cereal Rice 150
+Seafood CrabSticks 250 0,87 0,75 9,8
+Egg Chicken 200
+Sauce Mayonnaise 150
